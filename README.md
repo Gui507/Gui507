@@ -1,6 +1,6 @@
 # Olá mundo ! 🌎
 
-- 🧑🏼‍💻 Estudante de Ciências da Computação. 
+- 🧑🏼‍💻 Estudante de Análise e Desenvolvimento de Sistemas. 
 - 🔭 Atualmente estou trabalhando com automação de processos
 
 <div>
